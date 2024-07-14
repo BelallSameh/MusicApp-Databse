@@ -1,5 +1,3 @@
-```sql
-
 CREATE TABLE ACCOUNTS(
     AID varchar(6) PRIMARY KEY,
     Afname varchar(20) NOT NULL,
