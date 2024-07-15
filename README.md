@@ -18,7 +18,7 @@ The **MusicApp-Database** is designed to support a dynamic music application whe
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/MusicApp-Database.git
+    git clone https://github.com/BelallSameh/MusicApp-Database.git
     cd MusicApp-Database
     ```
 
